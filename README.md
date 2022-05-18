@@ -3,7 +3,7 @@ WEEK ONE : Introduction to python
 
     Day one: Installing the various software that we will use ie. Vs code, Python & Github. Joining Discord Server.
 
-        [Add link to download Python for window:](https://www.python.org/downloads/windows/)
+        ![Add link to download Python for window:](https://www.python.org/downloads/windows/)
 
         [Add link to donwload VS code:](https://code.visualstudio.com/download)
 
