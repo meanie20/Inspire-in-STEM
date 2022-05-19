@@ -18,22 +18,23 @@ plate_number.append('B2987')
 print(Motorcycle)
 print(plate_number)
 
+#when the below code is uncomment it intefers with code 32 and 33
 #how to delete an item from a list
-del Motorcycle[0]
-print(Motorcycle)
+#del Motorcycle[0]
+#print(Motorcycle)
 
-pop_motorcycle=Motorcycle.pop()
-print(pop_motorcycle)
+#pop_motorcycle=Motorcycle.pop()
+#print(pop_motorcycle)
 
-Motorcycle.remove('Suzuki')
-print(Motorcycle)
+#Motorcycle.remove('Suzuki')
+#print(Motorcycle)
 
 
-print("My name is "+str(Motorcycle_owner)+" and I own a "+str(Motorcycle[1])+" plate number "+str(plate_number[1]))
+print("My name is "+str(Motorcycle_owner)+" and I own a "+str(Motorcycle[0])+" plate number "+str(plate_number[0]))
 print("My name is {} and I own a {} {}".format(Motorcycle_owner,Motorcycle[1],plate_number[1]))
 print(f"My name is {Motorcycle_owner} and I own a {Motorcycle[0]} plate number {plate_number[0]}")
 print(f"My name is {Motorcycle_owner} and I own a {Motorcycle[0]} {plate_number[0]}")
-Counter=0
+
 
 
 
