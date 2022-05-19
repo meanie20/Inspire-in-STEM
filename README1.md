@@ -22,6 +22,10 @@
 
     Day two: Basics of Python commands such as print(), declaring and intializing variables, how to print integers using the str(),how to enable users input and simple calculations using operators.
 
+    Day three: 
+
+    Day four:Lists and how to work with lists, loops: while, for, do while
+
   
 
 

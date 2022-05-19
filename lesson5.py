@@ -2,15 +2,15 @@
 name="Jack Sparrow"
 age= 100
 user_name=" Cpt Sparrow "
-#person = "I am " +str(name)+ " and I am " +str(age)+ " years old."
-#print(person)
+person = "I am " +str(name)+ " and I am " +str(age)+ " years old."
+print(person)
 
 #FORMAT METHOD
 #print("My name is {} and I am {} years old".format(name,age))
 print(f"My name is {name} \nI am {age} years old")
 
 #STRIP
-#.lstrip strips space from the left &.rstrip is from thr right
+#.lstrip strips space from the left &.rstrip is from the right
 print(user_name.strip())
 
 # using triple or double quotes for print
