@@ -18,7 +18,7 @@ plate_number.append('B2987')
 print(Motorcycle)
 print(plate_number)
 
-#when the below code is uncomment it intefers with code 32 and 33
+#when the below code is uncommented it intefers with code 32 and 33 since it deletes the indices used
 #how to delete an item from a list
 #del Motorcycle[0]
 #print(Motorcycle)
