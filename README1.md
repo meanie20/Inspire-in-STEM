@@ -4,8 +4,16 @@
 
     Day one: Installing the various software that we will use ie. Vs code, Python & Github. Joining Discord Server.
 
-    [Add link to python download](https://www.python.org/downloads/)
-    [Link to Google] (https://www.google.com)
+    Link  for downloading python
+    https://www.python.org/downloads/
+
+    Link for downloading visual studio code
+    https://code.visualstudio.com/download
+
+    Link for downloading git for windows
+    https://gitforwindows.org/
+
+
 
      
 
@@ -14,7 +22,7 @@
 
     Day two: Basics of Python commands such as print(), declaring and intializing variables, how to print integers using the str(),how to enable users input and simple calculations using operators.
 
-    <img src="images\assignment 1.png">
+  
 
 
 WEEK 2:  Electronics
