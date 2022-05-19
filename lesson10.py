@@ -1,8 +1,0 @@
-x= input("Enter first number: ")
-y= input("Enter second number: ")
-#print(x)
-#print(y)
-print("The number will be calculated respectively")
-menu=("MENU:\n1.Add\n2.Substract\n3.Multiply\n4.Divide")
-print(menu)
-choice= input("Enter your choice:")
