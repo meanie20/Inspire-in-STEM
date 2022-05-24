@@ -8,7 +8,7 @@
    [a link](https://www.python.org/downloads/windows/)
 
     Link for downloading visual studio code
-    https://code.visualstudio.com/download
+   [a link](https://code.visualstudio.com/download)
 
     Link for downloading git for windows
     https://gitforwindows.org/
