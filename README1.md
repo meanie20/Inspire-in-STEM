@@ -1,7 +1,7 @@
 ### Inspire-in-STEM
 ## WEEK ONE : Introduction to python
     Day one: Installing the various software that we will use ie. Vs code, Python & Github. Joining Discord Server.
-[Python download](https://www.python.org/downloads/windows/)
+[Python download](https://www.python.org/downloads/windows/)\newline
 [VS Code download](https://code.visualstudio.com/download)
 [Github client download](https://desktop.github.com/)
  
