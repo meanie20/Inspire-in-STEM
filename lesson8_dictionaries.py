@@ -14,10 +14,9 @@ book={"author":"Collen Hoover","title":"Verity"}
 print(student["name"])
 
 #Adding pairs
-
-
-#student['x_position']= 45
-#print(student)
+student["Gender"]="Male"
+student["Adm_no"]="78965"
+print(student)
 
 #intialising an empty dictionary
 student_01= {}
