@@ -27,8 +27,8 @@ Day 2: If...ELSE AND IF...ELSE IF STATEMENTS.
 Assignment 3 - Write a program that prompts user input and checks whether the age is valid for sh 1000 giveaway.
 Assignment 4 - Write a program that deducts a certain amount according to your account balance
 
-![assignment 3](https://github.com/[meanie20]/[INSPIRE-IN-STEM]/blob/[images]/assignment 3.png?raw=true
-![assignment 4](https://github.com/[meanie20]/[INSPIRE-IN-STEM]/blob/[images]/assignment 4.png?raw=true
+![assignment 3](https://github.com/[meanie20]/[INSPIRE-IN-STEM]/blob/[images]/assignment 3.png?raw=true)
+![assignment 4](https://github.com/[meanie20]/[INSPIRE-IN-STEM]/blob/[images]/assignment 4.png?raw=true)
 ![alt text](images\Assignment 3.png)
 
 
