@@ -53,7 +53,5 @@ print(txt.split())
 #finding the length of a string
 txt= "Hello Ryle Kincaid.How are you?"
 print(txt.length())
+print(len(txt))
 
-
-
-print()
