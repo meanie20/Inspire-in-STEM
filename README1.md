@@ -5,7 +5,7 @@
     Day one: Installing the various software that we will use ie. Vs code, Python & Github. Joining Discord Server.
 
     Link  for downloading python
-    https://www.python.org/downloads/
+   [a link](https://www.python.org/downloads/windows/)
 
     Link for downloading visual studio code
     https://code.visualstudio.com/download
@@ -15,21 +15,22 @@
 
     Day two: Basics of Python commands such as print(), declaring and intializing variables, how to print integers using the str(),how to enable users input and simple calculations using operators.
 
-    Day three: 
+    Day three: Strings and various string methods
+![lstring_methods]()
 
-    Day four:Lists and how to work with lists, loops: for, do while
-
+    Day four:Lists,how to work with lists and introduction to loops.
+![lists]()
     Day five: Career counselling   
 WEEK 2:
 Day 1: CONTINUATION OF FOR LOOPS.
 
 Day 2: If...ELSE AND IF...ELSE IF STATEMENTS.
-Assignment 3 - Write a program that prompts user input and checks whether the age is valid for sh 1000 giveaway.
-Assignment 4 - Write a program that deducts a certain amount according to your account balance
+    Assignment 3 - Write a program that prompts user input and checks whether the age is valid for sh 1000 giveaway.
+    Assignment 4 - Write a program that deducts a certain amount according to your account balance.
 
-![assignment 3](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/assignment%201.png)
-![assignment 4](https://github.com/[meanie20]/[INSPIRE-IN-STEM]/blob/[images]/assignment 4.png?raw=true)
-![alt text](images\Assignment 3.png)
+![assignment 3](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/Assignment%203.png)
+![assignment 4](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/Assignment%204.png)
+
 
 
 WEEK 2:  Electronics

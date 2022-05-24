@@ -12,8 +12,4 @@
 #print("x * y = "+str(prod)) 
 #print("y / x = " +str(quot))
 
-#area of a circle
-PI=3.142
-radius= int(input("Enter the radius: "))
-area=PI*radius*radius
-print("The area of circle is "+str(area))
+
