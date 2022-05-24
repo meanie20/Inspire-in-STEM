@@ -29,7 +29,7 @@ Assignment 4 - Write a program that deducts a certain amount according to your a
 
 ![assignment 3](https://github.com/[meanie20]/[INSPIRE-IN-STEM]/blob/[images]/assignment 3.png?raw=true
 ![assignment 4](https://github.com/[meanie20]/[INSPIRE-IN-STEM]/blob/[images]/assignment 4.png?raw=true
-  
+![alt text](images\Assignment 3.png)
 
 
 WEEK 2:  Electronics
