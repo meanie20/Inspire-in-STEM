@@ -6,6 +6,8 @@
 [VS Code download](https://code.visualstudio.com/download)
 
 [Github client download](https://desktop.github.com/)
+GIT COMMANDS.
+git remote add *
  
      Day two: Basics of Python commands such as print(), declaring and intializing variables, how to print integers using the str(),how to enable users input and simple calculations using operators.
 ![assignment 2](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/Assignment%202.png)    

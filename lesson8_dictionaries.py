@@ -5,10 +5,13 @@
 #   Name: Evelyn Wangui
 #   Date: 23-05-2022
 ###############################################################################
-
+#A dictionary is a collection of key value
+#syntax: dict= ("key"): value
 #Intialisng dictionaries
 student={"name":"Jack Sparrow","age":"100"}
 book={"author":"Collen Hoover","title":"Verity"}
+
+
 
 #Accessing values in the dictionary
 print(student["name"])
