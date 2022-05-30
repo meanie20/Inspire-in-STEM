@@ -13,4 +13,3 @@ else:
     print("No deductions done")
 
 #list of vehicles witn the following : BMW,Audi,Toyota,Mercedes,Jeep. Uaing if statement find a Jeep in the list and convert into uppercase
-ve
