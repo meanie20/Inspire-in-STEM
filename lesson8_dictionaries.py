@@ -5,7 +5,7 @@
 #   Name: Evelyn Wangui
 #   Date: 23-05-2022
 ###############################################################################
-#A dictionary is a collection of key value
+#A dictionary is a collection of key value pairs
 #syntax: dict= ("key"): value
 #Intialisng dictionaries
 student={"name":"Jack Sparrow","age":"100"}

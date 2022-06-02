@@ -1,4 +1,7 @@
 #LISTS
+#ITEMS - a collection of editable sequence
+#A sequential 
+
 Cities= ['Nairobi', 'Nakuru','Mombasa','Kisumu']
 print(Cities[0])
 
