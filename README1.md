@@ -34,6 +34,15 @@ git remote add *
     Day 5: Function, function parameters and general working with functions.
 ![Functions](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/Assignment%203.png)
 
+## WEEK 3
+    Day 1:
+Day 2:
+Day 3:
+    Day 4: Basics of classes and their syntax.
+![Functions](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/Assignment%203.png)
+Day 5:
+
+
 
 
 
