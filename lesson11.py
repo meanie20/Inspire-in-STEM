@@ -31,14 +31,15 @@ multipy_numbers(7,4)
 multipy_numbers(67,34)
 
 #Quadratic equation
-
 a=int((input("Enter the co-efficient of the first term: ")))
 b=int((input("Enter the co-efficient of the second term: ")))
 c=int((input("Enter the constant: ")))
-disc=(sqrt((b**2) - (4*a*c)))
-x=(-b+disc)/(2*a)
-y=(-b-disc)/(2*a)
-print("The roots of the equation is ",x,y)
-
+def find_roots(a,b,c):
+    disc=(sqrt((b**2) - (4*a*c)))
+   
+    x=(-b+disc)/(2*a)
+    y=(-b-disc)/(2*a)
+    print("The roots of the equation is ",x,y)
+find_roots(1,6,9)
 
 
