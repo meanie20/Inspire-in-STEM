@@ -29,6 +29,12 @@ git remote add *
 ![assignment 3](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/Assignment%203.png)
 ![assignment 4](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/Assignment%204.png)
 
+    Day 3:
+    Day 4: Working with lists in dictionaries.
+    Day 5: Function, function parameters and general working with functions.
+![Functions](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/Assignment%203.png)
+
+
 
 
 WEEK 2:  Electronics
