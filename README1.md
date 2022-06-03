@@ -31,8 +31,7 @@ git remote add *
 
     Day 3:
     Day 4: Working with lists in dictionaries.
-    Day 5:How to create a half  and full pyramid of stars, numbers in order and number in a certain sequence
-![Patterns](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/Patterns.png)
+    Day 5: Using while loops
  
 
 ## WEEK 3
@@ -40,16 +39,17 @@ git remote add *
 ![Patterns](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/Patterns.png)  
     Day 2:Function, function parameters and general working with functions.
 ![Functions](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/Functions.png)
-    Day 3:
-<html>
+    Day 3: <html>
 <body>
 <b>HOLIDAY</b>
 </body>
 </html>
-
-    Day 4: Basics of classes and their syntax.
+    Day 4: Basics of classes and their syntax, definition and intialisation and functions in classes
 ![Classes](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/classes.png)
-Day 5:
+
+Day 5: CONTINUATION OF FUNCTIONS AND CLASESS
+    Functions: Return dictioanries from a function, Parsing a list from a fucntion, default function parameters and return type.
+    Classes :
 
 
 
