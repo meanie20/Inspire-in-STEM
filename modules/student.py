@@ -3,5 +3,5 @@ class student():
         self.name = name
         self.hobby = hobby
         self.year_of_birth = year_of_birth
-    def greetstudent():
-        print("Hello from")
+    def greetstudent(self):
+        print("Hello from",self.name.title())
