@@ -37,7 +37,7 @@ git remote add *
 ## WEEK 3
     Day 1:How to create a half  and full pyramid of stars, numbers in order and number in a certain sequence
 ![Patterns](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/Patterns.png)  
-![Patterns1]()
+![Patterns1](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/Patters1.png)
     Day 2:Function, function parameters and general working with functions.
 ![Functions](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/Functions.png)
     Day 3: <html>
@@ -54,8 +54,9 @@ Day 5: CONTINUATION OF FUNCTIONS AND CLASESS
 ## WEEK 4
     Day 1: Modules and File handling.
     Modules: Importing separates modules into a main file using import() and from() import()
-![File handling]()  
-![Modules]()
+    File handling: Various file operations
+![File handling](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/file%20handling.png)  
+![Modules](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/modules.png)
 
 
 
