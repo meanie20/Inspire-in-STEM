@@ -37,6 +37,7 @@ git remote add *
 ## WEEK 3
     Day 1:How to create a half  and full pyramid of stars, numbers in order and number in a certain sequence
 ![Patterns](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/Patterns.png)  
+![Patterns1]()
     Day 2:Function, function parameters and general working with functions.
 ![Functions](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/Functions.png)
     Day 3: <html>
@@ -49,7 +50,14 @@ git remote add *
 
 Day 5: CONTINUATION OF FUNCTIONS AND CLASESS
     Functions: Return dictioanries from a function, Parsing a list from a fucntion, default function parameters and return type.
-    Classes :
+    Classes : Making a password generator using classes
+## WEEK 4
+    Day 1: Modules and File handling.
+    Modules: Importing separates modules into a main file using import() and from() import()
+![File handling]()  
+![Modules]()
+
+
 
 
 

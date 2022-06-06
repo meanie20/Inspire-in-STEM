@@ -13,3 +13,4 @@ class teacher():
     def get_tsc_no(self):
         print("This is the TSC_number",self.tsc_no)
         return self.tsc_no
+        

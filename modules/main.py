@@ -1,4 +1,10 @@
+#!/usr/bin/python
 
+#MODULES
+################################################################################
+#   Name: Evelyn Wangui
+#   Date: 06-06-2022
+###############################################################################
 from student import student
 from teacher import teacher
 import operations

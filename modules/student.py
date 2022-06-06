@@ -1,3 +1,10 @@
+#!/usr/bin/python
+
+#MODULES
+################################################################################
+#   Name: Evelyn Wangui
+#   Date: 06-06-2022
+###############################################################################
 class student():
     def __init__(self,name,hobby,year_of_birth):
         self.name = name
