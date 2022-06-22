@@ -6,9 +6,7 @@
 [VS Code download](https://code.visualstudio.com/download)
 
 [Github client download](https://desktop.github.com/)
-GIT COMMANDS.
-git remote add *
- 
+
      Day two: Basics of Python commands such as print(), declaring and intializing variables, how to print integers using the str(),how to enable users input and simple calculations using operators.
 ![assignment 2](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/Assignment%202.png)    
 
@@ -112,6 +110,7 @@ We categorized the parts we identified into input and output. Input devices incl
 We assembled simple LED circuit and coded in arduino to make it blink using the procedure in the link below.
 ![Simple LED circuit](https://create.arduino.cc/projecthub/rowan07/make-a-simple-led-circuit-ce8308)
     
+    Day 3: 
 
 
 
