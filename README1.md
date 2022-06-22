@@ -64,13 +64,12 @@ Day 5: CONTINUATION OF FUNCTIONS AND CLASESS
 ##WEEK 5
     Day 1: Arduino software and Boards
 Arduino IDE is an open-source software that makes it easy to write code and upload it to the board. To learn about the arduino and how it functions the documentation is linked below.
-    ![Arduino download](https://www.arduino.cc/en/software)
-    ![Arduino documnenation](https://docs.arduino.cc/)
+    [Arduino download](https://www.arduino.cc/en/software)
+    [Arduino documnenation](https://docs.arduino.cc/)
 Raspberry Pi Pico is a low-cost, high-performance microcontroller board with flexible digital interfaces.
-![Raspberry Pi Pico board programming](https://github.com/earlephilhower/arduino-pico)
+    [Raspberry Pi Pico board programming](https://github.com/earlephilhower/arduino-pico)
 ESP32  is a single 2.4GHz Wi-Fi and Bluetooth SoC designed for mobile,wearable electronics and IoT applications.
-![ESP32 board programming](https://github.com/espressif/arduino-esp32)
-
+    [ESP32 board programming](https://github.com/espressif/arduino-esp32)
     Day 2: Learning parts that we'll use.
 Here we researched the various parts that will be used throughout the course:
 <html>
@@ -104,11 +103,10 @@ Here we researched the various parts that will be used throughout the course:
 </ol>
 </body>
 </html>
-
-    Day 2: Input and output devices and LED simple circuit using arduino
+    Day 3: Input and output devices and LED simple circuit using arduino
 We categorized the parts we identified into input and output. Input devices include: Buttons,LDR and Sensors like DHT and the output devices include: Buzzer,LED,LCD and Motors.
 We assembled simple LED circuit and coded in arduino to make it blink using the procedure in the link below.
-![Simple LED circuit](https://create.arduino.cc/projecthub/rowan07/make-a-simple-led-circuit-ce8308)
+[Simple LED circuit](https://create.arduino.cc/projecthub/rowan07/make-a-simple-led-circuit-ce8308)
     
     Day 3: 
 
