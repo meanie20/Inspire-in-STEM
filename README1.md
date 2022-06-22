@@ -89,7 +89,7 @@ Here we researched the various parts that will be used throughout the course:
     <p>It is made of two parts: a capacitive humidity sensor and a thermistor. There is also a very basic chip inside that does some analog and digital conversion and spits out a digital signal with temperature and humidity. To learn more about sensors,follow the link: <a href="https://learn.adafruit.com/dht">More on sensors</a>
     </p>
 <li>Breadboard</li>
-    <p>A breadboard consists of plastic block holding a matrix of electrical sockets of a size suitable for gripping thin connecting wire, component wires or the pins of transistors and integrated circuits (ICs). To learn more,follow the link: <a href="https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-breadboard">More on breadboard</a>
+    <p>A breadboard consists of plastic block holding a matrix of electrical sockets of a size suitable for gripping thin connecting wire, component wires or the pins of transistors and integrated circuits (ICs). To learn more,follow the link: <a href="https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-breadboard"> More on breadboard</a>
     </p>
 <li>Pushbutton switch</li>
     <p>It connects two points in a circuit when you press them and completes it. To learn more, follow the link:<a href="https://uk.rs-online.com/web/generalDisplay.html?id=ideas-and-advice/push-button-switches-guide">More on pushbutton switch</a>
