@@ -1,11 +1,11 @@
 ### Inspire-in-STEM
 ## WEEK ONE : Introduction to python
     Day one: Installing the various software that we will use ie. Vs code, Python & Github. Joining Discord Server.
-[Python download](https://www.python.org/downloads/windows/)
+    [Python download](https://www.python.org/downloads/windows/)
 
-[VS Code download](https://code.visualstudio.com/download)
+    [VS Code download](https://code.visualstudio.com/download)
 
-[Github client download](https://desktop.github.com/)
+    [Github client download](https://desktop.github.com/)
 
      Day two: Basics of Python commands such as print(), declaring and intializing variables, how to print integers using the str(),how to enable users input and simple calculations using operators.
 ![assignment 2](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/Assignment%202.png)    
