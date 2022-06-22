@@ -1,13 +1,11 @@
 ### Inspire-in-STEM
 ## WEEK ONE : Introduction to python
-    Day one: Installing the various software that we will use ie. Vs code, Python & Github. Joining Discord Server.
+Day one: Installing the various software that we will use ie. Vs code, Python & Github. Joining Discord Server.
     [Python download](https://www.python.org/downloads/windows/)
-
     [VS Code download](https://code.visualstudio.com/download)
-
     [Github client download](https://desktop.github.com/)
 
-     Day two: Basics of Python commands such as print(), declaring and intializing variables, how to print integers using the str(),how to enable users input and simple calculations using operators.
+Day two: Basics of Python commands such as print(), declaring and intializing variables, how to print integers using the str(),how to enable users input and simple calculations using operators.
 ![assignment 2](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/Assignment%202.png)    
 
     Day three: Strings and various string methods
@@ -33,36 +31,34 @@
  
 
 ## WEEK 3
-    Day 1:How to create a half  and full pyramid of stars, numbers in order and number in a certain sequence
+Day 1:How to create a half  and full pyramid of stars, numbers in order and number in a certain sequence
 ![Patterns](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/Patterns.png)  
 ![Patterns1](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/Patters1.png)
-    Day 2:Function, function parameters and general working with functions.
+
+Day 2:Function, function parameters and general working with functions.
 ![Functions](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/Functions.png)
-    Day 3: <html>
-<body>
-<b>HOLIDAY</b>
-</body>
-</html>
-    Day 4: Basics of classes and their syntax, definition and intialisation and functions in classes
-![Classes](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/classes.png)
+
+Day 4: CLASSES
+Basics of classes and their syntax, definition and intialisation and functions in classes
+![Classes]()
 
 Day 5: CONTINUATION OF FUNCTIONS AND CLASESS
-    Functions: Return dictioanries from a function, Parsing a list from a fucntion, default function parameters and return type.
-    Classes : Making a password generator using classes
+Functions: Return dictioanries from a function, Parsing a list from a function, default function parameters and return type.
+Classes : Making a password generator using classes
 ## WEEK 4
-    Day 1: Modules and File handling.
-    Modules: Importing separates modules into a main file using import() and from() import()
-    File handling: Various file operations
+    Day 1: MODULES AND FILE HANDLING.
+Modules: Importing separates modules into a main file using import() and from() import()
+File handling: Various file operations
 ![File handling](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/file%20handling.png)  
 ![Modules](https://github.com/meanie20/Inspire-in-STEM/blob/main/images/modules.png)
 
-    Day 2: Python GUI examples.
-    Day 3: Open weather app
-    Day 4: Introduction to IoT
-    Day 5: Web Scraping
+Day 2: Python GUI examples.
+Day 3: Open weather app
+Day 4: Introduction to IoT
+Day 5: Web Scraping
 
 ##WEEK 5
-    Day 1: Arduino software and Boards
+Day 1: Arduino software and Boards
 Arduino IDE is an open-source software that makes it easy to write code and upload it to the board. To learn about the arduino and how it functions the documentation is linked below.
     [Arduino download](https://www.arduino.cc/en/software)
     [Arduino documnenation](https://docs.arduino.cc/)
@@ -70,7 +66,8 @@ Raspberry Pi Pico is a low-cost, high-performance microcontroller board with fle
     [Raspberry Pi Pico board programming](https://github.com/earlephilhower/arduino-pico)
 ESP32  is a single 2.4GHz Wi-Fi and Bluetooth SoC designed for mobile,wearable electronics and IoT applications.
     [ESP32 board programming](https://github.com/espressif/arduino-esp32)
-    Day 2: Learning parts that we'll use.
+
+Day 2: Learning parts that we'll use.
 Here we researched the various parts that will be used throughout the course:
 <html>
 <head></head>
@@ -103,12 +100,13 @@ Here we researched the various parts that will be used throughout the course:
 </ol>
 </body>
 </html>
-    Day 3: Input and output devices and LED simple circuit using arduino
+
+Day 3: Input and output devices and LED simple circuit using arduino
 We categorized the parts we identified into input and output. Input devices include: Buttons,LDR and Sensors like DHT and the output devices include: Buzzer,LED,LCD and Motors.
 We assembled simple LED circuit and coded in arduino to make it blink using the procedure in the link below.
 [Simple LED circuit](https://create.arduino.cc/projecthub/rowan07/make-a-simple-led-circuit-ce8308)
     
-    Day 3: 
+ 
 
 
 
