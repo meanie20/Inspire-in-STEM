@@ -114,7 +114,7 @@ We assembled simple LED circuit and coded in arduino to make it blink using the 
 
 
 
-WEEK 2:  Electronics
+
 WEEK 3:  Introduction to robotics
 WEEK 4: JavaScript, CSS & HTML
 WEEK 5: 
